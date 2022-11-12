@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "9cc7688ff0109118",
+    "type": "split",
+    "children": [
+      {
+        "id": "4260161781880fa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584cd13eb27b5305",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9db4cdf52c711bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff06b3845cbc932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b421d77fd865f03a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "ac198d89b966bc11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16710fe0d88ea303",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "264dec37bc124c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f970b5f0c0111750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1395a93ce8e925e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1895bb549c907cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc5498d9a349b6d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50859e5dd9d84f29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "584cd13eb27b5305",
+  "lastOpenFiles": [
+    "Unqork Enablement @ LCNC Labs.md",
+    "Unqork/Get Started with Unqork @ LCNC Labs 🚀.md",
+    "Unqork/Developer Environment Access🔐.md",
+    "Unqork/List of Contents.md",
+    "Table of content.md",
+    "Unqork/Lets Start! 🏁.md",
+    "Unqork/Intro to Unqork Platform.md",
+    "IMG-20200131-WA0007.jpg",
+    "Unqork/Display and layout.md",
+    "Unqork/Data & Event processing.md"
+  ]
+}
